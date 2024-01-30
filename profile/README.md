@@ -1,12 +1,7 @@
 ## Hi there 👋
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🙋‍♀️ 在我这里，任何人都混不过去。
+🌈 你这辍那辍，辍了有什么用？
+👩‍💻 倒退回二十年前，你打听打听，电视，收音机，包括那个柴油机，哪个不是我修的？
+🍿 此处不养爷，自有养爷处！
+🧙 好了，开始上课。我们讲第一个概念：磁势。
